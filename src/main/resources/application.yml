@@ -8,7 +8,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/aritraibm/ms-cloud-config 
+          uri: https://github.com/aritraibm/pru-poc-cloud-config
           clone-on-start: true
 #eureka:
 #  client:
